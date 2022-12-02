@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">papb8</string>
+    <string name="lihat_data">Lihat data</string>
+    <string name="tambah">Tambah</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="nrp">NRP</string>
+    <string name="cari_data">Cari Data</string>
+</resources>
